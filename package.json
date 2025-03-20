@@ -16,6 +16,6 @@
   "author": "Your Name/Organization",
   "license": "ISC",
   "devDependencies": {
-    "http-server": "^14.1.7"
+    "http-server": "14.1.1"
   }
 }
