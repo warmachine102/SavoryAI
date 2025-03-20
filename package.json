@@ -2,7 +2,7 @@
   "name": "savouryai-culinary-creativity",
   "version": "1.0.0",
   "description": "A web application for generating recipes using AI.",
-  "main": "script.js",
+  "main": "public/server.js",
   "scripts": {
     "start": "http-server public -p 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
